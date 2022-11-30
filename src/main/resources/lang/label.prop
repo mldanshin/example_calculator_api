@@ -1,0 +1,14 @@
+government=Орган
+post_type=Тип должности
+post=Должность
+rank=Звание
+seniority=Стаж службы (выслуга лет)
+qualification_rank=Квалификационное звание
+state_secret=Допуск к государственной тайне
+special_conditions=Особые условия службы
+special_achievement=Особые достижения в службе
+danger=Риск (повышенная опасность)
+bonus_annual=Премия из расчета трех окладов  в год
+bonus_one_time=Единовременные поощрительные выплаты
+regional_coefficient=Районный коэффициент
+place_service=Место службы
